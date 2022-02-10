@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KebasoMoses
-- 👀 I’m interested in Python Full stack development 
-- 🌱 I’m currently learning Vue.js and python Dhango
-- 💞️ I’m looking to collaborate on Django + Vue js projects
+- 👀 I’m interested in Python + JS Full stack development 
+- 🌱 I’m currently learning Vue.js and python Flask
+- 💞️ I’m looking to collaborate on Flask + Vue js projects
 - 📫 How to reach me - Moseskebaso4@gmail.com 
 
 <!---
